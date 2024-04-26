@@ -36,8 +36,7 @@ function SprintPlanningTable() {
                         <td></td>
                         <td></td>
                     </tr>
-                    {/* Agregar las demás filas siguiendo el mismo formato */}
-                    {/* Puedes usar un bucle para generar las filas si los datos están en una estructura adecuada */}
+                
                 </tbody>
             </table>
         </div>
